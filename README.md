@@ -1,4 +1,4 @@
-# Elementos de Cálculo Numérico (Biología) — Primer cuatrimestre de 2011
+# Elementos de Cálculo Numérico B — Primer cuatrimestre de 2011
 
 ## Prácticas
 
